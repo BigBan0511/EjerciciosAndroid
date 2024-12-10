@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string-array name="ciudades">
+        <item>Ciudad Real</item>
+        <item>Toledo</item>
+        <item>Guadalajara</item>
+        <item>Cuenca</item>
+        <item>Albacete</item>
+        <item>Madrid</item>
+    </string-array>
+</resources>
